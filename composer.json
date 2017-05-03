@@ -1,0 +1,5 @@
+{
+    "require": {
+        "webup/laravel-sendinblue": "^1.0"
+    }
+}
